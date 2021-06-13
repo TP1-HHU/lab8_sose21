@@ -32,7 +32,7 @@ int main(){
     b2.print();
 
     b2 /= b;
-    cout << "This should be 1/9:" << endl;
+    cout << "This should be -1/9:" << endl;
     b2.print();
     cout << "------------" << endl;
 
